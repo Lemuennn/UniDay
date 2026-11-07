@@ -9,7 +9,6 @@ backend/generated/
 backend/generated
 backend/generated/prisma/
 
-*.vscode
 *.txt
 *.md
 exampleFrontEnd
